@@ -125,9 +125,18 @@ text-transform:uppercase;
 }
 
 #heroImage {
-  object-fit:contain;
+  /* overflow: hidden;
+  object-fit:contain;  */
+
+  /* object-fit:contain; */
+  /* height:fit-content; */
   background-image: url(/images/heroHomepageImage.jpg);
 }
+
+/* .img .column {
+  object-fit:contain; 
+  overflow: hidden;
+} */
 
 #SendClothesSectionCTA {
   width: 90%;
