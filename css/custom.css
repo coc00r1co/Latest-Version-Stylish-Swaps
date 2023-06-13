@@ -126,7 +126,7 @@ text-transform:uppercase;
 
 #heroImage {
   object-fit:contain;
-  background-image: url(images/heroHomepageImage.jpg);
+  background-image: url(/images/heroHomepageImage.jpg);
 }
 
 #SendClothesSectionCTA {
