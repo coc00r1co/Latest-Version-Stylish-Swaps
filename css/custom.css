@@ -116,12 +116,13 @@ text-transform:uppercase;
   text-align: left;
   width: 90%;
   margin: auto;
+  height: 400px;
   
 }
 
 #heroCTA {
   padding: 2rem;
-  height: 22rem;
+  /* height: 22rem; */
 }
 
 #heroImage {
